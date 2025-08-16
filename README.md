@@ -1,3 +1,8 @@
+<img width="786" height="498" alt="image" src="https://github.com/user-attachments/assets/c145b83e-b2d1-4c4a-af3b-b18f5f1aaa8d" />
+
+
+
+
 # Lettusee User Manual  
 
 ## 📌 Introduction  
